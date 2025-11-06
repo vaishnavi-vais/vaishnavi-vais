@@ -5,7 +5,6 @@ I’m a passionate AI & Data enthusiast with hands-on experience in building int
 ---
 
 ## 🚀 About Me
-- 💡 Final-year EEE student transitioning into AI & Data roles  
 - 🤖 Interested in LLMs, NLP, Applied Machine Learning & Model Deployment  
 - 🌍 Actively exploring Cloud, Data Pipelines, and GenAI systems  
 - ✨ Always open to learning, collaborating, and building something exciting  
@@ -15,10 +14,10 @@ I’m a passionate AI & Data enthusiast with hands-on experience in building int
 ## 🛠 Tech Skills
 
 ### **Programming**
-Python · C · SQL
+Python · C · SQL · C# 
 
 ### **Web Technologies**
-HTML · CSS · JavaScript · JSON
+HTML · CSS · JavaScript · JSON· CSV
 
 ### **AI & Data**
 Machine Learning · NLP · LLMs · PySpark
@@ -38,7 +37,7 @@ Azure OpenAI · Streamlit · Gradio Azure ML
 - Preparing Data for Exploration – Coursera  
 - Introduction to LLM – Google Cloud  
 - ML Pipelines with Azure ML Studio – Coursera  
-  Azure data engineering - Microsoft 
+-  Azure data engineering - Microsoft 
 
 
 ✨ *“Learning, Building, and Growing — One project at a time.”*  
